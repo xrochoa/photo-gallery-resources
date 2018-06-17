@@ -1,0 +1,421 @@
+[
+  {
+    "id": "pinn",
+    "name": "Pinnacles",
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "josh",
+    "name": "Joshua Tree",
+    "captions": [
+      "Joshua Tree and Boulders",
+      "BLM Grounds",
+      "BLM Grounds",
+      "Park Boulevard",
+      "Joshua Tree and Boulders",
+      "Joshua Tree and Boulders",
+      "Hidden Valley Campground",
+      "Hidden Valley",
+      "Hidden Valley",
+      "Barker Dam Trail",
+      "Barker Dam Trail",
+      "Barker Dam Trail",
+      "Indian Cove",
+      "Petroglyphs",
+      "Cholla Cactus Garden"
+    ]
+  },
+  {
+    "id": "gran",
+    "name": "Grand Canyon",
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "ante",
+    "name": "Antelope Canyon Navajo Tribal Park",
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "mesa",
+    "name": "Mesa Verde",
+    "captions": [
+      "Point Lookout",
+      "Balcony House",
+      "Navajo Canyon View",
+      "Cliff Palace",
+      "Sun Point View",
+      "Long House"
+    ]
+  },
+  {
+    "id": "blac",
+    "name": "Black Canyon of the Gunnison",
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "monu",
+    "name": "Monument Valley Navajo Tribal Park",
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "arch",
+    "name": "Arches",
+    "captions": [
+      "Delicate Arch",
+      "Three Gossips",
+      "The Organ",
+      "Sheep Rock",
+      "Tower of Babel",
+      "Balanced Rock",
+      "Garden of Eden",
+      "North and South Windows",
+      "Double Arch",
+      "Parade of Elephants",
+      "Sand Dune Arch",
+      "Park Ave",
+      "Landscape Arch",
+      "Wall near Navajo Arch",
+      "Double O Arch"
+    ]
+  },
+  {
+    "id": "hors",
+    "name": "Horseshoe Bend",
+    "captions": [
+      ""
+    ]
+  },
+  {
+    "id": "cany",
+    "name": "Canyonlands",
+    "captions": [
+      "Monument Basin",
+      "Shafer Canyon Overlook",
+      "Mesa Arch",
+      "Aztec Butte Grainery",
+      "Whale Rock",
+      "Upheaval Dome",
+      "Green River Overlook",
+      "Soda Springs Basin",
+      "Grand View Point Overlook",
+      "Superbowl Campground",
+      "Big Spring Canyon Overlook",
+      "Big Spring Canyon Overlook",
+      "Pothole Point",
+      "Elephant Hill Trail",
+      "Devils Kitchen"
+    ]
+  },
+  {
+    "id": "natu",
+    "name": "Natural Bridges National Monument",
+    "captions": [
+      "Sipapu Bridge",
+      "Owachomo Bridge"
+    ]
+  },
+  {
+    "id": "nava",
+    "name": "Navajo National Monument",
+    "captions": [
+      "Betatakin/Talastima Cliff Dwelling",
+      "Stormy Night"
+    ]
+  },
+  {
+    "id": "capi",
+    "name": "Capitol Reef",
+    "captions": [
+      "Navajo Butte",
+      "Behunin Cabin",
+      "Capitol Dome",
+      "Petroglyphs",
+      "The Castle",
+      "Scenic Drive",
+      "Scenic Drive",
+      "Scenic Drive",
+      "Chimney Rock"
+    ]
+  },
+  {
+    "id": "bryc",
+    "name": "Bryce Canyon",
+    "captions": [
+      "Inspiration Point",
+      "Fairview Point",
+      "Natural Bridge",
+      "Ponderosa Canyon",
+      "Raven",
+      "The Whale",
+      "Near Inspiration Point",
+      "Near Sunrise Point",
+      "Navajo Trail",
+      "Navajo Trail",
+      "Navajo Trail",
+      "Navajo Trail",
+      "Queen Trail",
+      "Navajo Trail",
+      "Near Sunset Point"
+    ]
+  },
+  {
+    "id": "pink",
+    "name": "Coral Pink Sand Dunes State Park",
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "zion",
+    "name": "Zion",
+    "captions": [
+      "View from Angel's Landing",
+      "Checkerboard Mesa",
+      "Canyon Overlook",
+      "Watchman",
+      "Altar of Sacrifice",
+      "Virgin River",
+      "Court of the Patriarchs",
+      "Weeping Rock",
+      "Sunset at Weeping Rock",
+      "Upper Emerald Pool",
+      "Middle Emerald Pool",
+      "Great White Throne",
+      "The Narrows",
+      "The Narrows",
+      "Temple of Sinawava"
+    ]
+  },
+  {
+    "id": "hoov",
+    "name": "Hoover Dam",
+    "captions": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "deat",
+    "name": "Death Valley",
+    "captions": [
+      "Near Grapevine",
+      "Dante's View",
+      "Twenty Mule Team Canyon",
+      "Zabriskie Point",
+      "Zabriskie Point",
+      "Harmony Borax Works",
+      "Mesquite Flat Sand Dunes",
+      "Devil's Golf Course",
+      "Badwater Basin",
+      "Badwater Basin",
+      "Artist's Pallette",
+      "Golden Canyon",
+      "Golden Canyon",
+      "Salt Creek",
+      "Ubehebe Crater",
+      "Milky Way from Emigrant",
+      "Mesquite Flat Sand Dunes",
+      "Panamint"
+    ]
+  },
+  {
+    "id": "sequ",
+    "name": "Sequoia",
+    "captions": [
+      "View from Moro Rock",
+      "Milk Ranch Peak",
+      "Moro Rock",
+      "Castle Rocks",
+      "Smoky Sun",
+      "Sierra Nevada"
+    ]
+  },
+  {
+    "id": "yose",
+    "name": "Yosemite",
+    "captions": [
+      "Glacier Point",
+      "Tunnel View",
+      "El Capitan",
+      "Vernal Fall",
+      "Olmsted Point",
+      "Tenaya Lake",
+      "Lembert Dome",
+      "Cathedral Lake",
+      "Cathedral Peak"
+    ]
+  },
+  {
+    "id": "lass",
+    "name": "Lassen Volcanic",
+    "captions": [
+      "Bumpass Hell",
+      "Sulphur Works",
+      "Lassen Peak",
+      "Glacier Rock",
+      "Chaos Crags and Jumbles",
+      "Cinder Cone",
+      "Fantastic Lava Beds",
+      "Painted Dunes",
+      "Cinder Cone"
+    ]
+  },
+  {
+    "id": "redw",
+    "name": "Redwood",
+    "captions": [
+      "High Bluff Overlook",
+      "Lady Bird Johnson Grove",
+      "Lady Bird Johnson Grove",
+      "Redwood Creek Overlook",
+      "Fern Canyon",
+      "Gold Bluffs Beach",
+      "Roosevelt Elk",
+      "Big Tree Wayside",
+      "High Bluff Overlook"
+    ]
+  },
+  {
+    "id": "crat",
+    "name": "Crater Lake",
+    "captions": [
+      "Wizard Island",
+      "Mount Thielsen",
+      "Devil's Backbone",
+      "The Watchman",
+      "Clearest Water",
+      "Vidae Falls",
+      "Pinnacles Overlook",
+      "Phantom Ship",
+      "Mount Scott"
+    ]
+  },
+  {
+    "id": "mexi",
+    "name": "Mexican Hat",
+    "captions": [
+      ""
+    ]
+  },
+  {
+    "id": "diam",
+    "name": "Diamon Lake",
+    "captions": [
+      ""
+    ]
+  },
+  {
+    "id": "rain",
+    "name": "Mount Rainier",
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "olym",
+    "name": "Olympic",
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "badl",
+    "name": "Badlands",
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "wica",
+    "name": "Wind Cave",
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]
