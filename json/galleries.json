@@ -1,0 +1,45 @@
+[
+  {
+    "id": "nps",
+    "name": "National Parks",
+    "order": [
+      "badl",
+      "wica",
+      "arch",
+      "deat",
+      "yose",
+      "bryc",
+      "gran",
+      "josh",
+      "lass",
+      "redw",
+      "crat",
+      "cany",
+      "zion",
+      "capi",
+      "mesa",
+      "olym",
+      "rain",
+      "pinn",
+      "blac",
+      "sequ"
+    ],
+    "suffix": "National Park"
+  },
+  {
+    "id": "oip",
+    "name": "Other Inspiring Places",
+    "order": [
+      "ante",
+      "hors",
+      "nava",
+      "monu",
+      "natu",
+      "pink",
+      "hoov",
+      "mexi",
+      "diam"
+    ],
+    "suffix": ""
+  }
+]
