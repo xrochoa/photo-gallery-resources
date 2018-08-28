@@ -3,6 +3,8 @@
     "id": "nps",
     "name": "National Parks",
     "order": [
+      "voya",
+      "roya",
       "badl",
       "wica",
       "arch",
