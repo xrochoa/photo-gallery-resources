@@ -3,6 +3,7 @@
     "id": "nps",
     "name": "National Parks",
     "order": [
+      "shen",
       "sagu",
       "voya",
       "roya",

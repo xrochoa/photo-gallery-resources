@@ -1,0 +1,22 @@
+{
+  "name": "photo-gallery-resources",
+  "version": "1.0.0",
+  "description": "Includes high resolution and thumbnail images for: - photo-gallery-v1 built in Angular.js - photo-gallery-v2 built in Vue.js",
+  "main": "resize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrochoa/photo-gallery-resources.git"
+  },
+  "author": "Xavier Reyes Ochoa <xareyesochoa@gmail.com> (http://www.xaviro.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xrochoa/photo-gallery-resources/issues"
+  },
+  "homepage": "https://github.com/xrochoa/photo-gallery-resources#readme",
+  "dependencies": {
+    "sharp": "^0.23.1"
+  }
+}
