@@ -1,7 +1,7 @@
 const sharp = require('sharp');
 const fs = require('fs');
 const inputFolder = './temp/';
-const parkName = 'shen';
+const parkName = 'hale';
 
 /* CREATE FOLDERS */
 let highresFolder = `./highres/${parkName}`;
@@ -17,8 +17,10 @@ if (!fs.existsSync(thumbFolder)) {
 /* RESIZE FOR HIGHRES AND THUMB */
 fs.readdir(inputFolder, (err, files) => {
     files.forEach(file => {
-        resizeStream(file, { width: 1920, height: 1200 }, highresFolder);
-        resizeStream(file, { width: 600, height: 400 }, thumbFolder);
+        if (file !== '.DS_Store') {
+            resizeStream(file, { width: 1920, height: 1200 }, highresFolder);
+            resizeStream(file, { width: 600, height: 400 }, thumbFolder);
+        }
     });
 });
 
