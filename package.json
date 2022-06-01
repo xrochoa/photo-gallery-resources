@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/xrochoa/photo-gallery-resources#readme",
   "dependencies": {
-    "sharp": "^0.23.1"
+    "sharp": "^0.30.5"
   }
 }
